@@ -9,7 +9,7 @@ versions:
   fpt: '*'
   ghes: '*'
   ghec: '*'
----
+--- 1
 
 {% data reusables.actions.enterprise-github-hosted-runners %}
 
